@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1230,
-    "timeDay": 1230,
-    "timeWeek": 1230,
-    "timeMonth": 1230,
-    "timeYear": 1230,
+    "time": 1143,
+    "timeDay": 1143,
+    "timeWeek": 1143,
+    "timeMonth": 1143,
+    "timeYear": 1143,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 966,
-    "timeDay": 966,
-    "timeWeek": 966,
-    "timeMonth": 966,
-    "timeYear": 966,
+    "time": 933,
+    "timeDay": 933,
+    "timeWeek": 933,
+    "timeMonth": 933,
+    "timeYear": 933,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Non-Existing Page",
+    "url": "https://broken.revisitvocab.com",
+    "icon": "https://favicons.githubusercontent.com/broken.revisitvocab.com",
+    "slug": "non-existing-page",
+    "status": "down",
+    "uptime": "12.34%",
+    "uptimeDay": "12.34%",
+    "uptimeWeek": "12.34%",
+    "uptimeMonth": "12.34%",
+    "uptimeYear": "12.34%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-01-01": 0
+    }
   }
 ]
