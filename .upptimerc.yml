@@ -8,8 +8,8 @@ sites:
     url: https://www.revisitvocab.com
   - name: Login Page
     url: https://beta.revisitvocab.com
-  - name: Broken Page
-    url: https://broken4.revisitvocab.com
+  - name: Broken Page 2
+    url: https://broken.revisitvocab.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -25,6 +25,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+notification:
+  - type: telegram
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
