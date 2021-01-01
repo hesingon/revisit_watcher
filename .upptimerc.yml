@@ -8,6 +8,8 @@ sites:
     url: https://www.revisitvocab.com
   - name: Login Page
     url: https://beta.revisitvocab.com
+  - name: Non-Existing Page
+    url: https://broken.revisitvocab.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
