@@ -8,7 +8,7 @@ sites:
     url: https://www.revisitvocab.com
   - name: Login Page
     url: https://beta.revisitvocab.com
-  - name: Broken Page 2
+  - name: Broken Page 3
     url: https://broken.revisitvocab.com
 
 status-website:
