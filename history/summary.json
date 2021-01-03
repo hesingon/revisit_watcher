@@ -4,36 +4,40 @@
     "url": "https://www.revisitvocab.com",
     "icon": "https://favicons.githubusercontent.com/www.revisitvocab.com",
     "slug": "landing-page",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1144,
-    "timeDay": 1262,
+    "timeDay": 1229,
     "timeWeek": 1144,
     "timeMonth": 1144,
     "timeYear": 1144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-03": 0
+    }
   },
   {
     "name": "Login Page",
     "url": "https://beta.revisitvocab.com",
     "icon": "https://favicons.githubusercontent.com/beta.revisitvocab.com",
     "slug": "login-page",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 930,
-    "timeDay": 1079,
+    "timeDay": 1034,
     "timeWeek": 930,
     "timeMonth": 930,
     "timeYear": 930,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-03": 0
+    }
   },
   {
     "name": "Broken Page 3",
@@ -52,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-03": 30,
+      "2021-01-03": 400,
       "2021-01-02": 1310
     }
   }
